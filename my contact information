@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+     <meta charset="utf-8">
+     <title>my contact information</title>
+    </head>
+    <body> 
+      
+      <p> Phone Numbers :</p>
+      <p><li> 08141385181</li></p>
+      <p><li>07080455746</li></p>
+      <p><li>07042009601</li></p>
+      <p> Facebook :</p>
+      <p><li>Chibuisi Iheme</li></p>
+      <p>Instagram:</p>
+      <p><li>Chibuisi Iheme</li></p>
+      <p>Email Address:</p>
+      <p><li>Chibusi4u@gmail.com</li></p>
+      <p>Address :<p>
+      <p><li>Lagos, Nigeria</li></p>
+      <hr>
+      <form class=""action="mailto:Chibusi4u@gmail.com" method="post"   enctype="text/plain">
+      <h3>for more enquiries :</h3>
+        <label>Your Name:</label>
+        <input type="text" yourname=""value=""><br>
+        <label>your Email:</label>
+        <input type="text" youremail=""value=""><br> 
+        <label>Question</label><br>
+        <textarea name="" id="" cols="30" rows="10"></textarea>  
+        <input type="submit" name="">
+      </form>.
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
